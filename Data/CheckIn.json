@@ -1,0 +1,36 @@
+{
+    "checkin": [
+        {
+            "date": "021121",
+            "record": [
+                {
+                    "checkinid": 1,
+                    "accid": 1,
+                    "time": 1330
+                },
+                {
+                    "checkinid": 2,
+                    "accid": 2,
+                    "time": 1530
+                }
+            ]
+        },
+
+        {
+            "date": "031121",
+            "record": [
+                {
+                    "checkinid": 1,
+                    "accid": 1,
+                    "time": 1030
+                },
+                {
+                    "checkinid": 2,
+                    "accid": 2,
+                    "time": 1030
+                }
+            ]
+        }
+
+    ]
+}
